@@ -24,7 +24,7 @@ Extraiga userChrome.css, userContent.css y userColors.css del archivo .zip en su
 ¿No sabes dónde está \chrome? Es sencillo:
 * Abra Firefox
 
-* En la barra de direcciones, escriba: about: support
+* En la barra de direcciones, escriba: "about:support"
 
 * En "Conceptos básicos de la aplicación", busque la "Carpeta de perfil". Haga clic en "Abrir carpeta".
 
@@ -36,7 +36,7 @@ Extraiga userChrome.css, userContent.css y userColors.css del archivo .zip en su
 Una vez que tenga eso instalado, debe habilitar las alteraciones de CSS en Firefox. También es relativamente simple:
 * Abra Firefox.
 
-* En la barra de direcciones, escriba about: config
+* En la barra de direcciones, escriba "about:config"
 
 * "Acepta el riesgo".
 
